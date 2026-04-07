@@ -3,7 +3,7 @@
 This project is a React-based interactive wall calendar built for a frontend engineering assessment. The goal was to create a functional, responsive calendar component that mimics the look and feel of a physical wall calendar.
 
 ## Live Demo
-[Link to Live Demo](https://your-live-link-placeholder.com)
+[Link to Live Demo](https://calendily-calendar.netlify.app/)
 
 ## Key Features
 
